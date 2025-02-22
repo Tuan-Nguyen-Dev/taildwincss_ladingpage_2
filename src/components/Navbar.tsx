@@ -5,7 +5,7 @@ import MenuMobile from "./MenuMobile";
 
 const Navbar = () => {
   return (
-    <header className="bg-black text-white border-b border-b-gray-300 fixed top-0 left-0 right-0">
+    <header className="bg-black text-white fixed top-0 left-0 right-0 border-b-gray-300">
       <nav className="container mx-auto px-4 py-2 sm:px-6 md:px-5">
         <div className="flex justify-between items-center h-16">
           <div>
